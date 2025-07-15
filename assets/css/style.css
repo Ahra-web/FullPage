@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+  color: white;
+}
+
+#section1 { background-color: #1abc9c; }
+#section2 { background-color: #3498db; }
+#section3 { background-color: #9b59b6; }
